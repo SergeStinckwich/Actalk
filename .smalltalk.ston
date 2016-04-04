@@ -1,0 +1,14 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #configuration : 'Actalk',
+      #repository : 'http://smalltalkhub.com/mc/SergeStinckwich/Actalk/main',
+      #load : [ 'default' ],
+      #platforms : [
+        #pharo ]
+    }
+  ],
+  #testing : {
+    #categories : [ 'Actalk-Tests' ]
+  }
+}
