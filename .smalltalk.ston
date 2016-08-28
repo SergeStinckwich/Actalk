@@ -2,7 +2,7 @@ SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
       #baseline : 'Actalk',
-      #load: ['default'],
+      #load : ['default'],
       #platforms : [ #squeak, #pharo ]
     }
   ]
