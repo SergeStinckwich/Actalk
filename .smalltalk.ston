@@ -2,7 +2,6 @@ SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
       #baseline : 'Actalk',
-      #directory: '',
       #load : ['default'],
       #platforms : [ #pharo ]
     }
