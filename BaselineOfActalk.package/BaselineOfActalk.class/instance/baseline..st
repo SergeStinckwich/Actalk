@@ -5,5 +5,5 @@ baseline: spec
 		package: 'Actalk';
 		package: 'MiniActalk';
 		group: 'default'
-			with: #(Actalk)
+			with: #('Actalk')
 	]
