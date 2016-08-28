@@ -1,0 +1,14 @@
+{
+	"category" : "MiniActalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"count" ],
+	"name" : "TalkCounter",
+	"pools" : [
+		 ],
+	"super" : "TalkActorBehavior",
+	"type" : "normal" }

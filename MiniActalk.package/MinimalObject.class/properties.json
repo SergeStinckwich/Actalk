@@ -1,0 +1,14 @@
+{
+	"category" : "MiniActalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sd 3/24/2009 15:03",
+	"instvars" : [
+		 ],
+	"name" : "MinimalObject",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

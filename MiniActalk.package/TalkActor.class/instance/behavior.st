@@ -1,0 +1,4 @@
+meta interface
+behavior
+
+	^ behavior

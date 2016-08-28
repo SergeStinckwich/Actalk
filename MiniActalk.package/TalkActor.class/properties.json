@@ -1,0 +1,15 @@
+{
+	"category" : "MiniActalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mailBox",
+		"behavior" ],
+	"name" : "TalkActor",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

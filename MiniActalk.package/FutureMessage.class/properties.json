@@ -1,0 +1,14 @@
+{
+	"category" : "MiniActalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"future" ],
+	"name" : "FutureMessage",
+	"pools" : [
+		 ],
+	"super" : "Message",
+	"type" : "normal" }

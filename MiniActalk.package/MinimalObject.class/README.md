@@ -1,0 +1,1 @@
+A simple class trick that copies the message it does not understand from Object.

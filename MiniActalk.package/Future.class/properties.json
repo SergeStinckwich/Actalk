@@ -1,0 +1,15 @@
+{
+	"category" : "MiniActalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value",
+		"semaphore" ],
+	"name" : "Future",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
