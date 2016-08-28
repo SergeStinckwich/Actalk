@@ -4,7 +4,7 @@ SmalltalkCISpec {
       #baseline : 'Actalk',
       #directory: '',
       #load : ['default'],
-      #platforms : [ #squeak, #pharo ]
+      #platforms : [ #pharo ]
     }
   ]
 }
