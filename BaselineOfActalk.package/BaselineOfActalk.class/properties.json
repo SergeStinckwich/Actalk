@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfActalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfActalk",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
