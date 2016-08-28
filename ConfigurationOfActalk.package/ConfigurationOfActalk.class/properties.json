@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfActalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfActalk",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
