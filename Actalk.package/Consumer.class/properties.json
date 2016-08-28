@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ex-BoundedBuffer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Consumer",
+	"pools" : [
+		 ],
+	"super" : "BoundedBufferClient",
+	"type" : "normal" }

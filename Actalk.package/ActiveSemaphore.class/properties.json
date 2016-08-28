@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ext-WithSender-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"numberExcessSignals",
+		"waitingProcessQueue" ],
+	"name" : "ActiveSemaphore",
+	"pools" : [
+		 ],
+	"super" : "WithSenderObject",
+	"type" : "normal" }

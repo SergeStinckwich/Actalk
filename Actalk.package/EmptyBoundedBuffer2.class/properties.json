@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Actor-Ext-Ex",
+	"classinstvars" : [
+		"savedMethodSource" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EmptyBoundedBuffer2",
+	"pools" : [
+		 ],
+	"super" : "EmptyBoundedBuffer",
+	"type" : "normal" }

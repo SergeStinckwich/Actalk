@@ -1,0 +1,2 @@
+Class ReaderPriorityBookActivity specifies priority to the readers, that is no write if there is a pending read.
+Class ReaderPriorityBookActivity is defined as a subclass of activity class BookActivity.

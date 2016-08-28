@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Invocation-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "AlarmClock",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyObject",
+	"type" : "normal" }

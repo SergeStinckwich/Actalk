@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Invocation-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NumberOfTracks" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DiskHeadScheduler",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyObject",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Actalk-Synchro-Suspend-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"array",
+		"getIndex",
+		"putIndex",
+		"maxSize" ],
+	"name" : "ConcurrentSmalltalkBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "ConcurrentSmalltalkObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-ASC-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ASCGgetBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "ASCBoundedBuffer",
+	"type" : "normal" }

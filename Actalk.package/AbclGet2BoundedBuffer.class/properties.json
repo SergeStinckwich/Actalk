@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Abcl-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "AbclGet2BoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "AbclBoundedBuffer",
+	"type" : "normal" }

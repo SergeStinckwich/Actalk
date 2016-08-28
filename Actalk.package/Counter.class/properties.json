@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents" ],
+	"name" : "Counter",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Actor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ActorObject",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

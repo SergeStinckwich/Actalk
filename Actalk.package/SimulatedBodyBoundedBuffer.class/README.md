@@ -1,0 +1,1 @@
+Class SimulatedBodyBoundedBuffer redefines the bounded buffer example with a simulated body.

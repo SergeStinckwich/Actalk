@@ -1,0 +1,2 @@
+Class BoundedBufferClient is defined as an abstract class to share common structure between producer and consumer classes.
+Note that it is defined with a single message activity in order not to waiste further resources (infinite processes) during demonstrations of examples.

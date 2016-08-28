@@ -1,0 +1,2 @@
+Class FCFSPrinter implements the example of a printer server with assumption of message preservation ordering (FCFS stands for first come first served).
+See its associated activity class FCFSPrinterActivity and its subclasses ShortestJobFirstPrinterActivity and StarvationFreeShortestJobFirstPrinterActivity.

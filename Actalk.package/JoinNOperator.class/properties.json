@@ -1,0 +1,18 @@
+{
+	"category" : "Actalk-Kernel-JoinCont",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"n",
+		"operator",
+		"neutral",
+		"values",
+		"r" ],
+	"name" : "JoinNOperator",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

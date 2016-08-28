@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Counters-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CountersGet2BoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "Get2ConcurrentBoundedBuffer",
+	"type" : "normal" }

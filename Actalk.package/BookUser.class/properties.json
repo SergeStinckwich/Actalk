@@ -1,0 +1,16 @@
+{
+	"category" : "Actalk-Synchro-Counters-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"number",
+		"book",
+		"numberSteps" ],
+	"name" : "BookUser",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

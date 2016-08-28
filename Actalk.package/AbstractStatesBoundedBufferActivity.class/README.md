@@ -1,0 +1,1 @@
+This activity class specifies the synchronization of its associated behavior class.

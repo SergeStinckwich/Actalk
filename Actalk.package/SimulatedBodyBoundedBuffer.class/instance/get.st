@@ -1,0 +1,3 @@
+script
+get
+	^ contents removeFirst

@@ -1,0 +1,2 @@
+Class ReplyDestInvocation is a subclass of class Message.
+It adds an extra instance variable to implicitly contain and convey the reply destination (a future object). This class is used for implicit reply active objects.

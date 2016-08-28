@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ext-Abcl-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents",
+		"maxSize" ],
+	"name" : "AbclBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "Abcl1Object",
+	"type" : "normal" }

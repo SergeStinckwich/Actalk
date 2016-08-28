@@ -1,0 +1,1 @@
+Class SmalltalkActivity simulates standard Smalltalk-80 objects by not creating any unneeded autonomous process.

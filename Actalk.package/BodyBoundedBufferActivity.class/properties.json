@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Body-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BodyBoundedBufferActivity",
+	"pools" : [
+		 ],
+	"super" : "ExplicitAcceptActivity",
+	"type" : "normal" }

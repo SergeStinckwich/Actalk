@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-ImplicitReply",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OptimizedImplicitReplyObject",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyObject",
+	"type" : "normal" }

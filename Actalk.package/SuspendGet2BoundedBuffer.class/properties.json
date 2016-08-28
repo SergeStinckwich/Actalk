@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Suspend-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SuspendGet2BoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "SuspendBoundedBuffer",
+	"type" : "normal" }

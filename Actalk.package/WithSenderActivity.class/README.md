@@ -1,0 +1,2 @@
+Activity class WithSenderActivity is defined to return invocation class WithSenderInvocation in order to be assigned by address class WithSenderAddress and to be used by active object behavior class WithSenderObject.
+Class WithSenderActivity is defined as a subclass of class CurrentMessageActivity in order to record current message so that current sender (of current message) may be fetched.

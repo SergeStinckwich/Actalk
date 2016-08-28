@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Kernel-MailBox",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MailBox",
+	"pools" : [
+		 ],
+	"super" : "SharedQueue",
+	"type" : "normal" }

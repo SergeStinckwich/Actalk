@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Pool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"postBlock" ],
+	"name" : "PoolActivity",
+	"pools" : [
+		 ],
+	"super" : "ObjectBodyActivity",
+	"type" : "normal" }

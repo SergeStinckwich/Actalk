@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ex-BoundedBuffer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"buffer",
+		"delay" ],
+	"name" : "BoundedBufferClient",
+	"pools" : [
+		 ],
+	"super" : "SingleMessageActiveObject",
+	"type" : "normal" }

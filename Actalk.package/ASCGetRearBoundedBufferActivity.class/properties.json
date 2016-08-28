@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-ASC-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ASCGetRearBoundedBufferActivity",
+	"pools" : [
+		 ],
+	"super" : "ASCBoundedBufferActivity",
+	"type" : "normal" }

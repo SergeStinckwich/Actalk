@@ -1,0 +1,17 @@
+{
+	"category" : "Actalk-Ex-BoundedBuffer-Ext",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"array",
+		"getIndex",
+		"putIndex",
+		"maxSize" ],
+	"name" : "ConcurrentBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyObject",
+	"type" : "normal" }

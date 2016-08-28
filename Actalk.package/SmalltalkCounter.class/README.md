@@ -1,0 +1,1 @@
+Class SmalltalkCounter is an example of resimulation of a standard Smalltalk-80 object in Actalk.

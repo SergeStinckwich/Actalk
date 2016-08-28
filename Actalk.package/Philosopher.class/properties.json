@@ -1,0 +1,18 @@
+{
+	"category" : "Actalk-Synchro-Guards-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"number",
+		"leftForkPosition",
+		"rightForkPosition",
+		"table",
+		"numberSteps" ],
+	"name" : "Philosopher",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

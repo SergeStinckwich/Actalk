@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Actor-Library",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NoMoreMessage",
+	"pools" : [
+		 ],
+	"super" : "ActorObject",
+	"type" : "normal" }

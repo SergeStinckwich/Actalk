@@ -1,0 +1,1 @@
+Class GuardsBoundedBuffer is analog to class Guards1BoundedBuffer but with the optimized implementation of message selection of activity class GuardsActivity.

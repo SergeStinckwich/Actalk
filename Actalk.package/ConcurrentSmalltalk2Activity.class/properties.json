@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Suspend",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ConcurrentSmalltalk2Activity",
+	"pools" : [
+		 ],
+	"super" : "SuspendActivity",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-OCore-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OCoreBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "BoundedBuffer",
+	"type" : "normal" }

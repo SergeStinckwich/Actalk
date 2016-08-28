@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-GenericSend",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"currentMessage" ],
+	"name" : "CurrentMessageActivity",
+	"pools" : [
+		 ],
+	"super" : "Activity",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+Class ObjectGuardsObject is a class of active object behaviors. Its only purpose is to dispatch onto activity class ObjectGuardsActivity.

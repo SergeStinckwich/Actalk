@@ -1,0 +1,1 @@
+This class implements an example of inheritance anomaly. Note that the gget example is not very significant in a concurrent context. This example of getRear provides possible concurrency between two get methods (get and getRear) as they access to different memory zones.

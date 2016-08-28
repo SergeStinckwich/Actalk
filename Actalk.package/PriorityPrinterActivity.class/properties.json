@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Invocation-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PriorityTable" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PriorityPrinterActivity",
+	"pools" : [
+		 ],
+	"super" : "InvocationActivity",
+	"type" : "normal" }

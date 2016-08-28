@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Kernel-Basic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"mailBox",
+		"activity" ],
+	"name" : "Basic1Address",
+	"pools" : [
+		 ],
+	"super" : "TrapMessagesObject",
+	"type" : "normal" }

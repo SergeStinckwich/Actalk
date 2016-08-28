@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Synchro-Suspend",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"suspendedSubProcessAssociationList",
+		"controlSemaphore" ],
+	"name" : "SuspendActivity",
+	"pools" : [
+		 ],
+	"super" : "ConcurrentActivity",
+	"type" : "normal" }

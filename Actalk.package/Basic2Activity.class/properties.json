@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Kernel-Basic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"process" ],
+	"name" : "Basic2Activity",
+	"pools" : [
+		 ],
+	"super" : "Basic1Activity",
+	"type" : "normal" }

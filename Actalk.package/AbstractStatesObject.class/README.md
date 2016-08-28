@@ -1,0 +1,1 @@
+Behavior class AbstractStatesObject only purpose is to define a default (error raising) transition method (nextAbstractStateAfter:) and to dispatch onto activity class AbstractStatesActivity.

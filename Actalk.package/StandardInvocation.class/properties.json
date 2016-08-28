@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Synchro-Invocation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"arrivalTime",
+		"sender" ],
+	"name" : "StandardInvocation",
+	"pools" : [
+		 ],
+	"super" : "WithReplyDestInvocation",
+	"type" : "normal" }

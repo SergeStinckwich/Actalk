@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Abcl",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"expressMailBox" ],
+	"name" : "Abcl3Address",
+	"pools" : [
+		 ],
+	"super" : "Abcl2Address",
+	"type" : "normal" }

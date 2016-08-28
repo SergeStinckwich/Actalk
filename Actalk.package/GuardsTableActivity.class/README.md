@@ -1,0 +1,1 @@
+Class of activity TableActivity defines synchronization of accesses to forks of a GuardsTable.

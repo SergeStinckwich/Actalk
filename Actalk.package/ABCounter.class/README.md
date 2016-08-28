@@ -1,0 +1,1 @@
+Class ABCounter is intended as a simple check of simulated previous version kernel class ActorBehavior.

@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Abcl",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Abcl2Object",
+	"pools" : [
+		 ],
+	"super" : "Abcl1Object",
+	"type" : "normal" }

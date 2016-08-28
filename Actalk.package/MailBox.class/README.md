@@ -1,0 +1,3 @@
+Class MailBox is a subclass of standard class SharedQueue.
+SharedQueue provides basic functionalities of a mailbox to receive and retrieve messages (plus mutual exclusion and suspension while the mailbox is empty).
+Class MailBox implements some further accessing and filtering methods specific to Actalk (looking for messages matching specific conditions and patterns, and incrementally looking for a message).

@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MultiplyInRange",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

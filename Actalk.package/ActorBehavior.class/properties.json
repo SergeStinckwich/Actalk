@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Kernel-Compatibility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"aself" ],
+	"name" : "ActorBehavior",
+	"pools" : [
+		 ],
+	"super" : "Activity",
+	"type" : "normal" }

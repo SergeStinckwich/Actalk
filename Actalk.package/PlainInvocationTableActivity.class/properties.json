@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Invocation-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PlainInvocationTableActivity",
+	"pools" : [
+		 ],
+	"super" : "PlainInvocationActivity",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Actalk-Synchro-Invocation-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"n",
+		"p",
+		"numberSteps",
+		"philosophers" ],
+	"name" : "PlainInvocationTable",
+	"pools" : [
+		 ],
+	"super" : "PlainInvocationObject",
+	"type" : "normal" }

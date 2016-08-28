@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Actor-Ext",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "FutureActor",
+	"pools" : [
+		 ],
+	"super" : "ExternalReplaceActorAddress",
+	"type" : "normal" }

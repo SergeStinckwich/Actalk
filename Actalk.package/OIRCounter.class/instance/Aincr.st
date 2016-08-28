@@ -1,0 +1,3 @@
+script
+Aincr
+	self incr

@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Actor-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"balance" ],
+	"name" : "BankAccount",
+	"pools" : [
+		 ],
+	"super" : "ActorObject",
+	"type" : "normal" }

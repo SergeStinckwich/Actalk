@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-FutureObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"semaphore" ],
+	"name" : "BecomeFuture",
+	"pools" : [
+		 ],
+	"super" : "TrapMessagesObject",
+	"type" : "normal" }

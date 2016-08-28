@@ -1,0 +1,18 @@
+{
+	"category" : "Actalk-Ext-Pool-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"n",
+		"numberSteps",
+		"occupancy",
+		"philosophers",
+		"forks" ],
+	"name" : "PoolRoom",
+	"pools" : [
+		 ],
+	"super" : "PoolObject",
+	"type" : "normal" }

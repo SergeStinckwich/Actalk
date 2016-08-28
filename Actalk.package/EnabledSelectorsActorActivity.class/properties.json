@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Actor-Ext",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"enabledSelectors" ],
+	"name" : "EnabledSelectorsActorActivity",
+	"pools" : [
+		 ],
+	"super" : "SingleMessageActivity",
+	"type" : "normal" }

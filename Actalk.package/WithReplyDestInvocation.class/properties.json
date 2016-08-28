@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-ImplicitReply",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"replyDest" ],
+	"name" : "WithReplyDestInvocation",
+	"pools" : [
+		 ],
+	"super" : "Message",
+	"type" : "normal" }

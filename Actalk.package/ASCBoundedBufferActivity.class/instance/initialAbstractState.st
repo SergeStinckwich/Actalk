@@ -1,0 +1,3 @@
+abstract states
+initialAbstractState
+	^ #empty

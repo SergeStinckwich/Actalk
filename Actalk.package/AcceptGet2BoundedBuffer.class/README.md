@@ -1,0 +1,1 @@
+This class implements an example of inheritance anomaly.

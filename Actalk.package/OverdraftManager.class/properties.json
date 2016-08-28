@@ -1,0 +1,17 @@
+{
+	"category" : "Actalk-Ext-Actor-Ext-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"account",
+		"balance",
+		"savings",
+		"r" ],
+	"name" : "OverdraftManager",
+	"pools" : [
+		 ],
+	"super" : "ActorObject",
+	"type" : "normal" }

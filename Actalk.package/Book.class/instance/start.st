@@ -1,0 +1,3 @@
+script
+start
+	self makeReadersAndWriters

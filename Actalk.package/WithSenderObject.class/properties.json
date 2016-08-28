@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-WithSender",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "WithSenderObject",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

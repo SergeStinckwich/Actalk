@@ -1,0 +1,2 @@
+Activity class PriorityPrinterActivity implements the synchronization of the dynamic priority printer example.
+Method updatePriorityOf:to: has a true guard. Actual reassignment of the priority takes place within the acceptance event. Consequently this assignment is implicitly in mutual exclusion with reading of the priority table from within a guard by a printing invocation.

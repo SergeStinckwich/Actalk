@@ -1,0 +1,2 @@
+Class FCFSBoundedBuffer implements the example of the bounded buffer with assumption of message preservation ordering (FCFS stands for first come first served).
+See its associated activity class FCFSBoundedBufferActivity.

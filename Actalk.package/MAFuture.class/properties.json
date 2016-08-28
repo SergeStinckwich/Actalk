@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-FutureObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MAFuture",
+	"pools" : [
+		 ],
+	"super" : "SharedQueue",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ex-BoundedBuffer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents",
+		"maxSize" ],
+	"name" : "BoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

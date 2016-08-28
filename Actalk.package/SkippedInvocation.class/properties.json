@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Invocation-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"numberTimesSkipped" ],
+	"name" : "SkippedInvocation",
+	"pools" : [
+		 ],
+	"super" : "PlainInvocation",
+	"type" : "normal" }

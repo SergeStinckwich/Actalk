@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Pool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PoolObject",
+	"pools" : [
+		 ],
+	"super" : "ExplicitAcceptObject",
+	"type" : "normal" }

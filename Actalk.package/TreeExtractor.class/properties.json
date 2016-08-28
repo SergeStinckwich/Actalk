@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ext-Abcl-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"output",
+		"number" ],
+	"name" : "TreeExtractor",
+	"pools" : [
+		 ],
+	"super" : "Abcl3Object",
+	"type" : "normal" }

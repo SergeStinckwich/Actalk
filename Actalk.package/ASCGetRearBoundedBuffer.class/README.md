@@ -1,0 +1,2 @@
+This class implements an example of inheritance anomaly. Note that the gget example is not very significant in a concurrent context. This example of getRear provides possible concurrency between two get methods (get and getRear) as they access to different memory zones.
+In this first version we cannot actually allow one get and one getRear to be served concurrently because there could be less than two elements in the buffer. See second version (class ASCGetRear2BoundedBuffer) for an improved specification.

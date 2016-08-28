@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Kernel-JoinCont",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"v1",
+		"r" ],
+	"name" : "BinaryAdder",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

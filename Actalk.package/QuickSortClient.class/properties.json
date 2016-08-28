@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ext-Accept-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"topTree",
+		"n" ],
+	"name" : "QuickSortClient",
+	"pools" : [
+		 ],
+	"super" : "ExplicitAcceptObject",
+	"type" : "normal" }

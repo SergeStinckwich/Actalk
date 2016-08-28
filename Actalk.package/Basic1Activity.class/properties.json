@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Kernel-Basic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"address",
+		"bself" ],
+	"name" : "Basic1Activity",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

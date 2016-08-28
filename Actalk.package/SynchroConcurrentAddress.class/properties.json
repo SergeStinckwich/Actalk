@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Concurrent",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SynchroConcurrentAddress",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyAddress",
+	"type" : "normal" }

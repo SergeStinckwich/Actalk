@@ -1,0 +1,1 @@
+Class Actor simulates previous version kernel class.

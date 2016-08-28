@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-FutureObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"isReady",
+		"isReadySemaphore" ],
+	"name" : "SAFuture",
+	"pools" : [
+		 ],
+	"super" : "Future",
+	"type" : "normal" }

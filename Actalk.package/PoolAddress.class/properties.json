@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Pool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PoolAddress",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyAddress",
+	"type" : "normal" }

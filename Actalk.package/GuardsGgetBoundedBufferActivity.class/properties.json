@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Guards-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"afterPut" ],
+	"name" : "GuardsGgetBoundedBufferActivity",
+	"pools" : [
+		 ],
+	"super" : "GuardsBoundedBufferActivity",
+	"type" : "normal" }

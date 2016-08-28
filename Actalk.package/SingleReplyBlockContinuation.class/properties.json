@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Kernel-ReplyDest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SingleReplyBlockContinuation",
+	"pools" : [
+		 ],
+	"super" : "BlockContinuation",
+	"type" : "normal" }

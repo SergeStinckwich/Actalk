@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Abcl-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SimulatedNowReceiver",
+	"pools" : [
+		 ],
+	"super" : "Abcl2Object",
+	"type" : "normal" }

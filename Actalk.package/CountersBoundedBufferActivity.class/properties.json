@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Counters-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"maxSize" ],
+	"name" : "CountersBoundedBufferActivity",
+	"pools" : [
+		 ],
+	"super" : "CountersActivity",
+	"type" : "normal" }

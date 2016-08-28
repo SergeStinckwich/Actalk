@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-ImplicitReply",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ImplicitReplyAddress",
+	"pools" : [
+		 ],
+	"super" : "GenericSendAddress",
+	"type" : "normal" }

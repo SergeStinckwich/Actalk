@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Pool-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"number" ],
+	"name" : "PoolFork",
+	"pools" : [
+		 ],
+	"super" : "PoolObject",
+	"type" : "normal" }

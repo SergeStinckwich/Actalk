@@ -1,0 +1,2 @@
+Activity class StarvationFreeTableActivity is a subclass of activity class PlainInvocationTableActivity.
+It ensures that no request may starve (being indefinitely delayed) by recording the number of times it is skipped (within the invocation instance of class SkippedInvocation) and ensuring that no pending request for eating is skipped more than a certain amount of times.

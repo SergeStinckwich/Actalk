@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Accept",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ExplicitAcceptActivity",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyActivity",
+	"type" : "normal" }

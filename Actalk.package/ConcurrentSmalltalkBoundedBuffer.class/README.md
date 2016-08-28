@@ -1,0 +1,2 @@
+Class ConcurrentSmalltalkBoundedBuffer implements the bounded buffer example with method suspension and post actions.
+In order to motivate use of post actions (for the get method) we follow a model of representation with explicit indexes, as for class ConcurrentBoundedBuffer.

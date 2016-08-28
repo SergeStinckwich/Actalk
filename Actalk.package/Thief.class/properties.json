@@ -1,0 +1,16 @@
+{
+	"category" : "Actalk-Ext-Body-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"name",
+		"bag",
+		"organization" ],
+	"name" : "Thief",
+	"pools" : [
+		 ],
+	"super" : "ObjectBodyObject",
+	"type" : "normal" }

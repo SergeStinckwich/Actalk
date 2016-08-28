@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-OCore-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"get2Queue" ],
+	"name" : "OCoreGet2BoundedBufferActivity",
+	"pools" : [
+		 ],
+	"super" : "OCoreBoundedBufferActivity",
+	"type" : "normal" }

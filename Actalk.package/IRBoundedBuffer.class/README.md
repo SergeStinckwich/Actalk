@@ -1,0 +1,1 @@
+Class IRBoundedBuffer (IR for implicit reply) defines a bounded buffer with a get request providing an implicit reply.

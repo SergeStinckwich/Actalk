@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Kernel-ReplyDest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"behaviorBlock" ],
+	"name" : "BlockContinuation",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

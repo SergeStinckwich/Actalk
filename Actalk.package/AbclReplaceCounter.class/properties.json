@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Abcl-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "AbclReplaceCounter",
+	"pools" : [
+		 ],
+	"super" : "ActorCounter",
+	"type" : "normal" }

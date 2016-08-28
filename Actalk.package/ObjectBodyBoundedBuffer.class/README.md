@@ -1,0 +1,2 @@
+Class ObjectBodyBoundedBuffer redefines the example of the bounded buffer with the body method directly specified by the behavior itself.
+On one hand, there is no need to call oself for accessing behavior predicates or data, but on the other hand there is no more complete separation between behavior and synchronization.

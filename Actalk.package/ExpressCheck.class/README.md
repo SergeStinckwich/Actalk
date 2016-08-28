@@ -1,0 +1,1 @@
+Class ExpressCheck is a simple check to show how express messages may interrupt, abort if unprotected standard (normal mode) message computation.

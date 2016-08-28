@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Body",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ObjectBodyActivity",
+	"pools" : [
+		 ],
+	"super" : "ExplicitAcceptActivity",
+	"type" : "normal" }

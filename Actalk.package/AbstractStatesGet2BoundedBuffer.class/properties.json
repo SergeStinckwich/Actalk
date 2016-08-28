@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-AbsStates-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "AbstractStatesGet2BoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "Get2BoundedBuffer",
+	"type" : "normal" }

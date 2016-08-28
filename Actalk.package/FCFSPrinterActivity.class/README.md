@@ -1,0 +1,1 @@
+Activity class FCFSPrinterActivity specifies the synchronization of its associated behavior class, that is ensures serialization and message ordering preservation (first come first served).

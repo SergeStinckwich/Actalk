@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Actor-Ext-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"savings" ],
+	"name" : "ProtectedBankAccount",
+	"pools" : [
+		 ],
+	"super" : "BankAccount",
+	"type" : "normal" }

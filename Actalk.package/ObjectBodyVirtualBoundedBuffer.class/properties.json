@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Body-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"element" ],
+	"name" : "ObjectBodyVirtualBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "ObjectBodyObject",
+	"type" : "normal" }

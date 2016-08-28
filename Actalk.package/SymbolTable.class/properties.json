@@ -1,0 +1,17 @@
+{
+	"category" : "Actalk-Ext-Pool-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"myKey",
+		"myInfo",
+		"left",
+		"right" ],
+	"name" : "SymbolTable",
+	"pools" : [
+		 ],
+	"super" : "PoolObject",
+	"type" : "normal" }

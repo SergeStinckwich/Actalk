@@ -1,0 +1,1 @@
+Class ASIFCFSBoundedBufferActivity adds the constraint of message ordering preservation (FCFS) to the bounded buffer example.

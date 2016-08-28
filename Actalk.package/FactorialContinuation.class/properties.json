@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"n",
+		"r" ],
+	"name" : "FactorialContinuation",
+	"pools" : [
+		 ],
+	"super" : "SingleMessageActiveObject",
+	"type" : "normal" }

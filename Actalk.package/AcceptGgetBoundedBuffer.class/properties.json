@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Accept-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "AcceptGgetBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "AcceptBoundedBuffer",
+	"type" : "normal" }

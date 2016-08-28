@@ -1,0 +1,1 @@
+Class SmalltalkAddress simulates standard Smalltalk-80 objects by delegating the received message to the activity to perform it (which delegates in turn to the behavior). Replies (^) are used to return the return value of the method to the sender.

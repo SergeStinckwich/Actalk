@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-ASC-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"afterPut" ],
+	"name" : "ASCGgetBoundedBufferActivity",
+	"pools" : [
+		 ],
+	"super" : "ASCBoundedBufferActivity",
+	"type" : "normal" }

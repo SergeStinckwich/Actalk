@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ext-Body-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents",
+		"maxSize" ],
+	"name" : "SimulatedBodyBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "SimulatedBodyObject",
+	"type" : "normal" }

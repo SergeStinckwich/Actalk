@@ -1,0 +1,2 @@
+Class PlainInvocationTableActivity implements an alternative representation of the dining philosophers problem.
+Guard of method eatWith:and: specifies that there is no other currently eating philosopher (invocation) using at least one of the requested forks.

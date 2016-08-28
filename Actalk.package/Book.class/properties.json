@@ -1,0 +1,16 @@
+{
+	"category" : "Actalk-Synchro-Counters-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"readers",
+		"writers",
+		"numberSteps" ],
+	"name" : "Book",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyObject",
+	"type" : "normal" }

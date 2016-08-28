@@ -1,0 +1,2 @@
+Class SuspendBoundedBuffer implements the bounded buffer example with method suspension.
+Put and get methods suspend as long as their condition (respectively, not full and not empty) is not fullfilled.

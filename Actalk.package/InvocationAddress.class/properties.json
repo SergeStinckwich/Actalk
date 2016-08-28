@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Invocation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"arrivalCounter" ],
+	"name" : "InvocationAddress",
+	"pools" : [
+		 ],
+	"super" : "SynchroConcurrentAddress",
+	"type" : "normal" }

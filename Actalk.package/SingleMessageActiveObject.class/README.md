@@ -1,0 +1,1 @@
+See class SingleMessageActivity comment.

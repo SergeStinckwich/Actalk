@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SmartMemoFibonacci",
+	"pools" : [
+		 ],
+	"super" : "SmartMemoFunction",
+	"type" : "normal" }

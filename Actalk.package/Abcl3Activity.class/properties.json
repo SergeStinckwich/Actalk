@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ext-Abcl",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"expressProcess",
+		"expressExclusionSemaphore" ],
+	"name" : "Abcl3Activity",
+	"pools" : [
+		 ],
+	"super" : "Abcl2Activity",
+	"type" : "normal" }

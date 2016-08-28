@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-AbsStates",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"enabledSelectors" ],
+	"name" : "AbstractStatesActivity",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyActivity",
+	"type" : "normal" }

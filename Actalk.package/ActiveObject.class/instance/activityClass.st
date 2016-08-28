@@ -1,0 +1,3 @@
+default classes
+activityClass
+	^ Activity

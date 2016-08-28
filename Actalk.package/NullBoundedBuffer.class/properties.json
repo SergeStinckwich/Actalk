@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ext-Actor-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents",
+		"maxSize" ],
+	"name" : "NullBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "ActorObject",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ext-Accept-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents",
+		"maxSize" ],
+	"name" : "AcceptBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "ExplicitAcceptObject",
+	"type" : "normal" }

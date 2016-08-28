@@ -1,0 +1,1 @@
+Class ActiveTranscript has one predefined instance refered by global variable Print which is the active object representative of the Transcript window. Print is used to print out replies (by convention with reply message selector reply:). Print is the final reply destination of many computations (see category Actalk-Examples).

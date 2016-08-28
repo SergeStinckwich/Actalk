@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Abcl-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"forwardDest" ],
+	"name" : "SimulatedForwarder",
+	"pools" : [
+		 ],
+	"super" : "Abcl1Object",
+	"type" : "normal" }

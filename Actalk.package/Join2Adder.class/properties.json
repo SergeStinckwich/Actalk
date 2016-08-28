@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Kernel-JoinCont",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Join2Adder",
+	"pools" : [
+		 ],
+	"super" : "JoinNOperator",
+	"type" : "normal" }

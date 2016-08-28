@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Invocation-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isGoingUp" ],
+	"name" : "ElevatorDiskHeadSchedulerActivity",
+	"pools" : [
+		 ],
+	"super" : "NearestJobNextDiskHeadSchedulerActivity",
+	"type" : "normal" }

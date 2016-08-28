@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Synchro-Suspend-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents",
+		"maxSize" ],
+	"name" : "SuspendBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "SuspendObject",
+	"type" : "normal" }

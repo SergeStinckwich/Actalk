@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Address",
+	"pools" : [
+		 ],
+	"super" : "Basic2Address",
+	"type" : "normal" }

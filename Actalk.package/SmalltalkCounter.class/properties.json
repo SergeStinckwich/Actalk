@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Smalltalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents" ],
+	"name" : "SmalltalkCounter",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

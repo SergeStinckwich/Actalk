@@ -1,0 +1,3 @@
+Class SingleAcceptActivity models activities for which we MAY assume that they are going to receive (and accept) only one single message.
+This class creates a process body with only one single message acceptance. This avoids creating infinite processes which will create wasted resources and are difficult to recover.
+Examples of uses are many classes of continuations, like class FactorialContinuation, as well as some example classes like classes Producer and Consumer in category Actalk-Ex-BoundedBuffer.

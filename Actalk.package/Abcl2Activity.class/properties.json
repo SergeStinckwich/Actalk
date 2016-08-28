@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Abcl",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Abcl2Activity",
+	"pools" : [
+		 ],
+	"super" : "WithSenderActivity",
+	"type" : "normal" }

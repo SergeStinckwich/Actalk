@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-FutureObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"value" ],
+	"name" : "Future",
+	"pools" : [
+		 ],
+	"super" : "BecomeFuture",
+	"type" : "normal" }

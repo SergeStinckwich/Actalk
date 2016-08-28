@@ -1,0 +1,1 @@
+Class OIRCounter shows a simple check/example of optimized implicit reply active object which does not create a future object for an optimized asynchronous message send.

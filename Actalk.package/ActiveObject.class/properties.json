@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ActiveObject",
+	"pools" : [
+		 ],
+	"super" : "Basic2ActiveObject",
+	"type" : "normal" }

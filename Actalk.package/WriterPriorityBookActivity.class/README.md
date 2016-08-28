@@ -1,0 +1,2 @@
+Class WriterPriorityBookActivity specifies priority to the writers, that is no read if there is a pending write.
+Class WriterPriorityBookActivity is defined as a subclass of activity class BookActivity.

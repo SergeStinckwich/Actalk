@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"n",
+		"next" ],
+	"name" : "PrimeFilter",
+	"pools" : [
+		 ],
+	"super" : "ActiveObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Synchro-Invocation-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"wakeUpTime" ],
+	"name" : "WakeUpTimeInvocation",
+	"pools" : [
+		 ],
+	"super" : "StandardInvocation",
+	"type" : "normal" }

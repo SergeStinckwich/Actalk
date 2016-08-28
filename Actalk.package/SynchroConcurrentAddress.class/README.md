@@ -1,0 +1,2 @@
+Address class SynchroConcurrentAddress is an adress class ensuring that message enqueueing and synchronization event receive are atomic.
+It is used in association with activity class SynchroConcurrentActivity.

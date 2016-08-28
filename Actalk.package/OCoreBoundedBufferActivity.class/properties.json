@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Synchro-OCore-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"getQueue",
+		"putQueue" ],
+	"name" : "OCoreBoundedBufferActivity",
+	"pools" : [
+		 ],
+	"super" : "CurrentMessageActivity",
+	"type" : "normal" }

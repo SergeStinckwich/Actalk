@@ -1,0 +1,2 @@
+Class CountersObject is a class of active object behaviors. Its only purpose is to dispatch onto activity class CountersActivity.
+It is defined as a subclass of behavior class ImplicitReplyObject in order to achieve consistency with its associated activity class hierarchy. (Meanwhile it could have been as well defined as a subclass of ActiveObject).

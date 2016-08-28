@@ -1,0 +1,2 @@
+events
+eventReceive: aMessage

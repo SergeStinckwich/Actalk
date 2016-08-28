@@ -1,0 +1,16 @@
+{
+	"category" : "Actalk-Ext-Accept-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"leftSubTree",
+		"pivot",
+		"rightSubTree" ],
+	"name" : "QuickSortTree",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyObject",
+	"type" : "normal" }

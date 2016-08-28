@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-ImplicitReply-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "IRCounter",
+	"pools" : [
+		 ],
+	"super" : "Counter",
+	"type" : "normal" }

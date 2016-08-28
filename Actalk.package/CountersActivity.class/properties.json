@@ -1,0 +1,16 @@
+{
+	"category" : "Actalk-Synchro-Counters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"receivedDictionary",
+		"acceptedDictionary",
+		"completedDictionary" ],
+	"name" : "CountersActivity",
+	"pools" : [
+		 ],
+	"super" : "SynchroConcurrentActivity",
+	"type" : "normal" }

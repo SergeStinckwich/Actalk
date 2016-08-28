@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ex-BoundedBuffer-Ext",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "IRBoundedBuffer",
+	"pools" : [
+		 ],
+	"super" : "BoundedBuffer",
+	"type" : "normal" }

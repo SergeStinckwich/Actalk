@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Ext-Actor-JoinCont",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"r" ],
+	"name" : "ReplaceBinaryAdder",
+	"pools" : [
+		 ],
+	"super" : "ActorObject",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+Class ActorBehavior simulates previous version kernel class.

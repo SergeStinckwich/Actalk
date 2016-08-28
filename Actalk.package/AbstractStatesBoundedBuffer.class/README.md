@@ -1,0 +1,3 @@
+Class AbstractStatesBoundedBuffer implements the bounded buffer example with abstract states to specify synchronization.
+Abstract states specification and transition is expressed within the associated activity class in order to enforce a clear separation between program and control.
+Note that because abstract state specifications are quite modular, they behave quite well against inheritance anomaly.

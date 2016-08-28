@@ -1,0 +1,3 @@
+abstract states
+full
+	^ #(#get )

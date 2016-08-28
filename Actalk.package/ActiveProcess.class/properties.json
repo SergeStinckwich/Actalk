@@ -1,0 +1,15 @@
+{
+	"category" : "Actalk-Ext-WithSender-Ex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"number",
+		"semaphore" ],
+	"name" : "ActiveProcess",
+	"pools" : [
+		 ],
+	"super" : "WithSenderObject",
+	"type" : "normal" }

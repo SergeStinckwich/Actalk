@@ -1,0 +1,14 @@
+{
+	"category" : "Actalk-Concurrent",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ConcurrentActivity",
+	"pools" : [
+		 ],
+	"super" : "ImplicitReplyActivity",
+	"type" : "normal" }

@@ -1,0 +1,7 @@
+Class BoundedBuffer3 is a first step towards management of synchronization.
+It is defined as a subclass of class BoundedBuffer.
+
+Rather than discarding methods which are disabled (e.g., put: method while the buffer is full), the buffer resends such requests to itself. This assumes that the unbounded (possibly infinite) cycle of reaccepting/resending the message will be eventually stopped (triggered by another request, e.g., a get request so the buffer could stop being full). This uses the method resend: (of class Basic2Address) which transparently ensures current behavior process yields way to others (because reaccept/resend infinite loop would keep the processor and forbid other active objects, like consumer to send other requests).
+
+Notice that this strategy of resending messages breaks down the assumption of transmission message ordering. Some message which initially arrived before another one may finally be accepted after it because of the constant reordering within the mailbox. This may be a problem for some algorithms (e.g., class PrimeFilter) on which we would then need to add some timestamping strategy in order to recover the initial ordering at sending time. This may also be specified by synchronization constraints. See category Actalk-Synchro-Invocation as an example.
+Such resending of message is also used for class NullBoundedBuffer (category Actalk-Ext-Actor-Examples) as well as for several classes to express synchronization. (To list them, find users of methods resend: and resendWithoutYield: defined in class Basic2Address).
